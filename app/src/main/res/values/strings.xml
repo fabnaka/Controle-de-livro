@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Controle De Livros</string>
+    <string name="cadastrar_livro">CADASTRAR LIVRO</string>
+    <string name="alterar_cadastro">ALTERAR CADASTRO</string>
+    <string name="excluir_cadastro">EXCLUIR CADASTRO</string>
+    <string name="listar_livros">LISTAR LIVROS</string>
+    <string name="voltar_livro">VOLTAR</string>
+    <string name="cadastrar_editora">CADASTRAR EDITORA</string>
+    <string name="alterar_editora">ALTERAR EDITORA</string>
+    <string name="excluir_editora">EXCLUIR EDITORA</string>
+    <string name="listar_editora">LISTAR EDITORA</string>
+    <string name="voltar_editora">VOLTAR</string>
+</resources>
